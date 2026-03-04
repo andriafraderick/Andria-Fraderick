@@ -3,10 +3,10 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on API's and Python<br/>
-- 🌱 I’m currently learning about python<br/>
+- 🌱 I’m currently learning about full stack web development<br/>
 - 👯 I’m looking to collaborate on projects related to this feild<br/>
 - 🤔 I’m looking for help with web development<br/>
-- 💬 Ask me about frint end<br/>
+- 💬 Ask me about front end<br/>
 - 📫 How to reach me: www.linkedin.com/in/andriafraderick<br/>
 - 😄 Pronouns: She/Her<br/>
 - ⚡ Fun fact: I write ‘TODO’ comments to my future self like passive-aggressive notes.
